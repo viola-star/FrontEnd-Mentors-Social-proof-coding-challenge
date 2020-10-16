@@ -1,0 +1,35 @@
+body{
+  background-color: hsl(0, 0%, 100%);
+  margin: 7%;
+  font-family: 'Spartan';
+  font-size: 15px;
+}
+
+.big-heading{
+  font-size: 2.5rem;
+  color: hsl(300, 43%, 22%);
+  font-weight: 700;
+}
+
+.sub-heading{
+  color: hsl(303, 10%, 53%);
+  font-weight: 700;
+  line-height: 1.65;
+}
+
+.rating{
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 2%;
+  padding: 2%;
+  margin: 0 auto 15px;
+}
+
+.rating-text{
+  color: hsl(300, 43%, 22%);
+  font-weight: 700;
+  margin-left: 35px;
+}
+
+.no-display{
+  display: none;
+}
