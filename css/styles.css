@@ -34,6 +34,16 @@ body{
   margin-left: 35px;
 }
 
+#rating2{
+  position: relative;
+  left: 40px;
+}
+
+#rating3{
+  position: relative;
+  left: 80px;
+}
+
 #testimonials{
   margin: 5% auto;
 }
@@ -44,6 +54,7 @@ body{
   border-radius: 2%;
   padding: 10%;
   margin-bottom: 10%;
+  height: 100%;
 }
 
 .testimonial-intro{
@@ -63,6 +74,16 @@ body{
 .testimonial-about{
   font-weight: 700;
   color: hsl(333, 80%, 67%);
+}
+
+#testimonial2{
+  position: relative;
+  top: 20px;
+}
+
+#testimonial3{
+  position: relative;
+  top: 40px;
 }
 
 #attributions{
